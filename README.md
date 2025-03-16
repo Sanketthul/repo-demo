@@ -1,4 +1,4 @@
-# repo-demo
+cd # repo-demo
 for education purpose
 <br>
-Author - Sanket Thul
+Author - Sanket Thul(Student)
